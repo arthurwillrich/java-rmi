@@ -11,9 +11,9 @@ Passo a passo para execução do programa:
 
     JDK (Java Development Kit) instalado na máquina
 
-Passos
+#### **Passos**
 
-    Compile os arquivos do projeto:
+Compile os arquivos do projeto:
 
 ```
 javac CinemaServerImpl.java CinemaClient.java CinemaClientGUI.java TerminalClientCinema.java
