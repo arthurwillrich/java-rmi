@@ -23,11 +23,11 @@ Inicie o registro RMI:
 rmiregistry
 ```
 
-Inicie a aplicação cliente com interface gráfica:
+Inicie, em outro terminal, a aplicação cliente com interface gráfica:
 ```
 java CinemaClient
 ```
-Inicie a aplicação cliente em modo terminal:
+Inicie, em outro terminal, a aplicação cliente em modo terminal:
 ```
 java TerminalCinemaClient
 ```
